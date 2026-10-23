@@ -1,0 +1,6 @@
+{
+  "name": "Apex Physique",
+  "description": "Premium fitness and bodybuilding portfolio featuring athlete profile, transformation slider, workout library, nutrition guides, and personal training inquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
